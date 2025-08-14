@@ -3,7 +3,7 @@
   background-color: bisque;
 } */
 /* CSS SELECTORS */
-h1 {
+/* h1 {
   color: rgb(184, 71, 152);
 }
 div {
@@ -19,4 +19,19 @@ div {
 * {
   margin: 0;
   padding: 0;
+} */
+/* PRACTICE SET 1 */
+/* .red {
+  background-color: red;
+  color: white;
+} */
+/* .one {
+  background-color: aqua;
+  border: 3px solid palevioletred;
+} */
+#first {
+  background-color: blueviolet;
+  color: pink;
+  font-weight: 200;
+  font-family: "Times New Roman", Times, serif;
 }
