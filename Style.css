@@ -1,3 +1,22 @@
-body{
+/* //First Program */
+/* body{
   background-color: bisque;
+} */
+/* CSS SELECTORS */
+h1 {
+  color: rgb(184, 71, 152);
+}
+div {
+  background-color: blueviolet;
+}
+#first {
+  background-color: coral;
+}
+.one {
+  background-color: #e50e0e;
+  border: 2px solid black;
+}
+* {
+  margin: 0;
+  padding: 0;
 }
