@@ -1,4 +1,4 @@
-/* //First Program */
+/* Day 1*/
 /* body{
   background-color: bisque;
 } */
@@ -29,9 +29,23 @@ div {
   background-color: aqua;
   border: 3px solid palevioletred;
 } */
-#first {
+/* #first {
   background-color: blueviolet;
   color: pink;
   font-weight: 300;
   font-family: "Times New Roman", Times, serif;
+} */
+/* Day 2 */
+* {
+  margin: 0;
+  padding: 0;
+}
+.red {
+  /* background: blue; */
+  background: rgba(170, 40, 90, 0.3);
+  color: aquamarine;
+}
+.green {
+  background-color: #b53131;
+  color: blue;
 }
