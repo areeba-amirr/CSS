@@ -40,12 +40,44 @@ div {
   margin: 0;
   padding: 0;
 }
-.red {
-  /* background: blue; */
-  background: rgba(170, 40, 90, 0.3);
+/*
+.red { */
+/* background: blue; */
+/* background: rgba(170, 40, 90, 0.3);
   color: aquamarine;
 }
 .green {
   background-color: #b53131;
   color: blue;
+} */
+.container {
+  background: #d32222;
+  color: white;
+  background-image: url(download.jpeg);
+  width: 1334px;
+  height: 3444px;
+  /* background-size: contain; */
+  background-repeat: no-repeat;
+   /* background-size: cover; */
+   /* background-size: auto; */
+   background-size: 203px  80px;
+   /* background-position: top; */
+   /* background-position: top right; */
+   /* background-position: bottom right; */
+   /* or */
+   /* background-position: right bottom; */
+   background-position: center;
+   background-attachment: fixed;
+   /* background-attachment: scroll; */
+   /* background-attachment: fixed; */
+   /* Short-Hand Property */
+   /* background: color image repeat attachment position */
+}
+body {
+  /* background-image: url(download.jpeg); */
+  /* background-repeat : repeat-x; */
+  /* background-repeat : repeat-y; */
+  /* background-repeat : space; */
+  /* background-repeat: round; */
+  /* background-repeat: no-repeat; */
 }
